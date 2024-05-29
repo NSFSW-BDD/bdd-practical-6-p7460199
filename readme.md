@@ -1,3 +1,7 @@
+#####
+MY PRACTICAL 6 GOT UPLOADED INTO THE PRACTICAL 5 REPOSITORY!!
+#####
+
 # Practice 
 
 In this exercise, you will update API endpoints to add on bcrypt functionality for registration and login. Follow the instructions below: 
